@@ -1,4 +1,3 @@
-# cheat-sheet
 # Every Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.  
 
